@@ -1,0 +1,3 @@
+/home/pi/Projects/presenceSensor/ressources/messageMarianne.wav
+30
+200
